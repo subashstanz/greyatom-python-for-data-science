@@ -1,6 +1,1 @@
-### Project Overview
-
- analysis of census for a particular region
-
-
-
+Detailed analysis of census using numpy tools
